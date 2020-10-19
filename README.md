@@ -7,7 +7,7 @@
 
 
  ## Code walkthrough 
- [https://github.com/miguelrizzog96/Appointment_NoShow_classifier/blob/main/No_shows_classifier.ipynb]()
+ [https://github.com/miguelrizzog96/Appointment_NoShow_classifier/blob/main/No_shows_classifier.ipynb](https://github.com/miguelrizzog96/Appointment_NoShow_classifier/blob/main/No_shows_classifier.ipynb)
 ## Introduction
 Patient no-shows hinder medical practices, across specialties, locations, and practice models. While no-shows consistently cause problems for practices, not all practices track their no-show rate or realize the impact that even a couple daily no-shows can have on both their processes and their revenue. 
 What is a patient no-show? A patient no-show refers to a missed patient appointment wherein the patient was scheduled, did not appear for the appointments, and made no prior contact with the clinic staff.
