@@ -18,7 +18,7 @@ What is a patient no-show? A patient no-show refers to a missed patient appointm
 Because of this, a Machine Learning Classifier was developed in an attempt to predict if a patient will show or not a scheduled appointment by analysing other independent variables such as age, gender,medical conditions, etc.
 ## Sources
 A dataset of 110.527 medical appointments with its 14 associated variables (characteristics), on a health facility in Brazil, collected by Aquarela Advanced Analytics.
-
+ [Source](https://www.kaggle.com/joniarroba/noshowappointments)
 ## Desicion tree Classifier basics
 
 ## Data Visualization
