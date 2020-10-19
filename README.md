@@ -16,7 +16,7 @@ What is a patient no-show? A patient no-show refers to a missed patient appointm
 - For a primary care physician, each missed appointment equals roughly $150-$200 in lost revenue. For surgeons, this is closer to $500.
 - Patients who fail to show up for their appointments often require more expensive emergency care later on. These higher costs get factored into healthcare costs for everyone else
 
-Because of this, a Machine Learning Classifier was developed in an attempt to predict if a patient will show or not a scheduled appointment by analysing other independent variables such as Age, Gender, etc.
+Because of this, a Machine Learning Classifier was developed in an attempt to predict if a patient will show or not a scheduled appointment by analysing other independent variables such as age, gender, etc.
 ## Sources
 
 ## Desicion tree Classifier basics
