@@ -3,7 +3,7 @@
 
 
 ##  Project Overview: 
-- 
+- Created a tool that estimates whether a patient will show or not at a scheduled medical appointment (Accuracy=0.75%) to give a better understanding of why the patients would miss an appointment and provide information  to clinical facilities for improving efficiency and productivity.
 
 
  ## Code walkthrough 
