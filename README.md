@@ -1,5 +1,6 @@
 # Medical Appointment No Shows Classifier. 
 *Written by: Miguel Angel Rizzo Gonzalez*
+---
 ![descarga](https://user-images.githubusercontent.com/69512046/96631476-60c07080-12e4-11eb-96e3-ffea04b2769b.jpg)
 
 
