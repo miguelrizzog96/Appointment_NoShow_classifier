@@ -23,6 +23,21 @@ Because of this, a Machine Learning Classifier was developed in an attempt to pr
 
  [This dataset of 110.527 medical appointments with its 14 associated variables (characteristics), on a health facility in Brazil, collected by Aquarela Advanced Analytics.](https://www.kaggle.com/joniarroba/noshowappointments)
 
+For each acppointment, we got the following variables:
+- PatientId
+- AppointmentID
+- Gender
+- Scheduled Day
+- Appointment Day 
+- Age 
+- Neighbourhood
+- Scholarship
+- Hipertension
+- Diabetes
+- Alcoholism 
+- 'Handcap
+- SMS_received 
+- No-show
 
 
 
