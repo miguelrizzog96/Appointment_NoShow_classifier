@@ -35,7 +35,7 @@ For each acppointment, we got the following variables:
 - Hipertension
 - Diabetes
 - Alcoholism 
-- 'Handcap
+- Handcap
 - SMS_received 
 - No-show
 
