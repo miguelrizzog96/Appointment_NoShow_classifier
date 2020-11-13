@@ -39,5 +39,6 @@ For each acppointment, we got the following variables:
 - SMS_received 
 - No-show
 
-
+## Added Features
+- Distance: Scraped over 81 distances betweeen the neighbouhoods and the health facility from Google Maps automating the mouse and keyboard, as it was assumed that distance could be an important factor on whether a patient shows up or not
 
